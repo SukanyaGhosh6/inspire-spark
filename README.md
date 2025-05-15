@@ -23,7 +23,7 @@ To run this project on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/SukanyaGhosh6/inspire-spark.git
-````
+
 
 2. Open the folder in your code editor (such as VS Code)
 
